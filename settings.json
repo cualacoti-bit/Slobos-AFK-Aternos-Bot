@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SMNation.aternos.me",
+    "ip": "SMNation.aternos.me:45989",
     "port": 45989,
     "version": "",
     "try-creative": false
